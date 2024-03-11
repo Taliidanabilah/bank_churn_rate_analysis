@@ -41,7 +41,7 @@ The project consists of two files:
 
 ## References: 
 - Dashboard:<a href="https://public.tableau.com/app/profile/taliida.nabilah/viz/ChurnRateAnalysis_17079325588300/Dashboard1"> Tableau</a>.  
-- Dataset: <a href="https://www.kaggle.com/code/carlosalvro/bank-churn-analisys"> Kaggle</a>.
+- Dataset: <a href="https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction"> Kaggle</a>.
 
 ---
 For any questions or suggestions, please contact me at <a href="taliida.nabilah@gmail.com"> taliida.nabilah@gmail.com</a>.
