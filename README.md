@@ -16,7 +16,7 @@ This project primary goal is to mitigate customer churn by 10% within next quart
 
 ## Conclusion:
 
-In conclusion, based on the data analysis conducted, several key points have been identified to inform the next car sales strategy:
+In conclusion, based on the data analysis conducted, several key points have been identified to inform the next period strategy:
 
 1. From data that we've been analyze we can see that female has contributed most number of churn rate. Despite being a minority in the overall customer base, female customers have a higher churn rate compared to male customers. The data shows that 1139 out of 4542 (25.06%) female customers churned, whereas only 898 out of 5454 (16.45%) male customers churned. This suggests that female customers may be more likely to churn compared to male customers, indicating a potential need for targeted retention efforts within this demographic.
  
